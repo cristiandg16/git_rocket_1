@@ -1,1 +1,1 @@
-# git_rocket_1
+Descripcion del proyecto del curso.
